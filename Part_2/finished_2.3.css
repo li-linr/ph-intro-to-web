@@ -1,0 +1,20 @@
+body {
+    background-color: #eeeeee;
+    font-family: "Proxima Nova";
+}
+
+img {
+    width: 50%;
+}
+
+h1 {
+    color: chocolate;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.center {
+    text-align: center;
+}
